@@ -1,0 +1,73 @@
+
+*{
+  margin: 0px;
+}
+  body{
+  background-color: black;
+ margin: 0px;
+}
+.sidebar{
+  background-color:dodgerblue;
+  padding:0px;
+  margin:0px;
+  
+}
+#project{
+  background-color:#FF0000;
+  width:1287px;
+  margin-left:0px;
+  
+}
+h1 {
+  color: blueviolet;
+}
+.main{
+  background-color:lightblue;
+  margin: 0px;
+ 
+}
+#img{
+  float:left;
+  margin-top:0px;
+
+  
+}
+#info{
+ width:250px;
+ margin-left:400px;
+ margin-top:300px;
+ margin-bottom:40px;
+ display: flex;
+
+}
+#intro{
+  float:left;
+  width:1286px;
+
+
+}
+ul{
+  margin: 0px;
+}
+#hobby{
+  color:Magenta;
+
+}
+#hobbies{
+  background-color:darkcyan ;
+}
+hr {
+ 
+  height: 2px; /* thickness of the line */
+  background-color: black; /* colour of the line */
+  margin-left:10px;
+  width: 97%;
+  margin-right: 100px;
+  border:none;
+}
+#one{
+   height: 2px; /* thickness of the line */
+  background-color: black; /* colour of the line */
+  border:none;
+  margin-right:600px;
+}
