@@ -1,4 +1,5 @@
 
+
 *{
   margin: 0px;
 }
@@ -36,16 +37,16 @@ h1 {
 }
 #info{
  width:250px;
- margin-left:400px;
- margin-top:300px;
+ margin-left:325px;
+ margin-top:525px;
  margin-bottom:40px;
  display: flex;
 
 }
 #intro{
-  float:left;
+  
   width:100%;
-  margin-top:100px;
+  margin-top:10px;
 
 
 }
